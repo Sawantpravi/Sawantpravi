@@ -1,0 +1,7 @@
+print("Addition",8+2)
+print("Substraction",8-2)
+print("Multiplication",8*2)
+print("Division",8/2)
+print("Floor Division",8//2)
+print("Remainder",8%2)
+print("Exponential",8**2)
